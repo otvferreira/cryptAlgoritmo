@@ -11,9 +11,6 @@ Este projeto demonstra como implementar cifragem e decifragem RSA em Python util
 - **Armazenamento de Chaves**: Salva as chaves RSA em arquivos `.pem`.
 - **Carregamento de Chaves**: Carrega as chaves RSA a partir de arquivos `.pem`.
 
-![image](https://github.com/user-attachments/assets/5ef9a14d-73d0-4cfd-9b17-f7298a3bfc28)
-
-
 ## Requisitos
 
 - Python 3.6 ou superior
@@ -24,6 +21,8 @@ Instale a biblioteca `cryptography` com o comando:
 ```bash
 pip install cryptography
 ```
+
+![image](https://github.com/user-attachments/assets/5ef9a14d-73d0-4cfd-9b17-f7298a3bfc28)
 
 ## Como Utilizar
 
